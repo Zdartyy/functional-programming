@@ -26,4 +26,17 @@ object ex1 extends cask.MainRoutes:
         porownaj(pair.head, pair.last)
       }
 
+  @cask.postJson("/sum-three")
+  def sumThree(list1: List[Int], list2: List[Int], list3: List[Int]): ujson.Obj = 
+
+    def sumTwo(pierwsza: List[Int], druga: List[Int]): List[Int] =
+      pierwsza.zip(druga).map { case (x, y) => x + y }
+    
+    val result = sumTwo(sumTwo(list1, list2), list3)
+    
+    ujson.Obj(
+      "lists" -> ujson.Arr(list1, list2, list3),
+      "sum" -> result
+    )
+
   initialize()
