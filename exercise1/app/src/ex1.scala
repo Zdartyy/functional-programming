@@ -7,6 +7,7 @@ object ex1 extends cask.MainRoutes:
   override def port = 8080
 
 
+  //exercise 3.0
   // funkcja porownuje rosnąco
   val sortOrder: (Int, Int) => Boolean = (a, b) => a <= b
 
@@ -26,6 +27,8 @@ object ex1 extends cask.MainRoutes:
         porownaj(pair.head, pair.last)
       }
 
+
+  //exercise 3.5
   @cask.postJson("/sum-three")
   def sumThree(list1: List[Int], list2: List[Int], list3: List[Int]): ujson.Obj = 
 
@@ -37,6 +40,18 @@ object ex1 extends cask.MainRoutes:
     ujson.Obj(
       "lists" -> ujson.Arr(list1, list2, list3),
       "sum" -> result
+    )
+
+  //exercise 4.0
+  @cask.postJson("/set-head")
+  def setHead(list: List[Int], element: Int): ujson.Obj = 
+
+    val nowaLista = element :: list
+    
+    ujson.Obj(
+      "originalList" -> list,
+      "newElement" -> element,
+      "result" -> nowaLista
     )
 
   initialize()
