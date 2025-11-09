@@ -17,7 +17,19 @@ https://github.com/user-attachments/assets/30d1b55b-776a-43ff-a0ef-164d3a62bb67
 
 **Zadanie 2**
 
+✅ Stwórz obraz dockerowy, który bazuje na najnowszej wersji Ubuntu LTS oraz który zawiera paczki:
+
+- Java 8
+- Python 3
+- Scala (dowolna wersja)
+- sbt
+- vim
+
 [Link do commita](https://github.com/Zdartyy/functional-programming/commit/6b2b1f4b586d922df4ecd284bbe06a0026099b62)
+[Link do dockerhuba](https://hub.docker.com/repository/docker/zdartyy/exercise2/general)
+Kod: [Link do zadania 2](https://github.com/Zdartyy/functional-programming/blob/main/exercise2/Dockerfile)
+
 
 https://github.com/user-attachments/assets/70fb3a46-21f6-4fed-bd32-0d7a47778034
+
 
