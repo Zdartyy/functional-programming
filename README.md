@@ -13,3 +13,8 @@
 Kod: [Link do zadania 1](https://github.com/Zdartyy/functional-programming/blob/main/exercise1/app/src/ex1.scala)
 
 https://github.com/user-attachments/assets/30d1b55b-776a-43ff-a0ef-164d3a62bb67
+
+
+**Zadanie 2**
+
+https://github.com/user-attachments/assets/70fb3a46-21f6-4fed-bd32-0d7a47778034
