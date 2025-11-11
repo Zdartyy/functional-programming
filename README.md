@@ -33,3 +33,11 @@ Kod: [Link do zadania 2](https://github.com/Zdartyy/functional-programming/blob/
 https://github.com/user-attachments/assets/70fb3a46-21f6-4fed-bd32-0d7a47778034
 
 
+
+**Zadanie 3**
+
+✅ 3.0 Zwróć wynik funkcji tail, która usuwa pierwszy element z listy (parameter); należy rozważyć przypadek Nil jako parametr [Link do commita 1](https://github.com/Zdartyy/functional-programming/commit/2c610c01305364c4ef254ba60ef080ae901c222c)
+Kod: [Link do zadania 1](https://github.com/Zdartyy/functional-programming/tree/main/exercise3/app/src)
+
+
+https://github.com/user-attachments/assets/a54aacd0-54ff-44a6-9ce0-03a90a06ec0c
