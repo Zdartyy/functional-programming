@@ -41,9 +41,26 @@ https://github.com/user-attachments/assets/70fb3a46-21f6-4fed-bd32-0d7a47778034
 
 ✅ 3.0 Zwróć wynik funkcji tail, która usuwa pierwszy element z listy (parameter); należy rozważyć przypadek Nil jako parametr [Link do commita 1](https://github.com/Zdartyy/functional-programming/commit/2c610c01305364c4ef254ba60ef080ae901c222c)  
 
-Kod: [Link do zadania 1](https://github.com/Zdartyy/functional-programming/tree/main/exercise3/app/src)  
+Kod: [Link do zadania 3](https://github.com/Zdartyy/functional-programming/tree/main/exercise3/app/src)  
 
 
 
 https://github.com/user-attachments/assets/a54aacd0-54ff-44a6-9ce0-03a90a06ec0c
+
+
+**Zadanie 4**
+
+✅ 3.0 zwróci taki sam wynik jak zad.1 4.5 ale wykorzysta typ opcjonalny [Link do commita 1](https://github.com/Zdartyy/functional-programming/commit/735fce8906d502eb0fb93372bf651514f4840578)
+
+❌ 3.5 zwroci wariancję z listy; do implementacji wykorzystać należy typ opcjonalny
+
+❌ 4.0 zwróci listę (option), która jest wynikiem połączenia dwóch list (option); w przypadku gdy jedna z list jest None, funkcja powinna zwrócić None
+
+❌ 4.5 zwróci listę za pomocą metody mojeMap[A,B,C](a: Option[A], b: Option[B])(f:(A,B)=>C):Option[C]; należy wykorzystać metodę flatMap oraz map
+
+❌ 5.0 zwróci taki średnią (mean) z listy zwracając Either
+
+Kod: [Link do zadania 4](https://github.com/Zdartyy/functional-programming/tree/main/exercise4)
+
+https://github.com/user-attachments/assets/8b97d78e-0f61-4bd3-8467-70ddc0bfd0ce
 
