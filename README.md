@@ -64,3 +64,20 @@ Kod: [Link do zadania 4](https://github.com/Zdartyy/functional-programming/tree/
 
 https://github.com/user-attachments/assets/8b97d78e-0f61-4bd3-8467-70ddc0bfd0ce
 
+
+**Zadanie 5**
+
+✅ 3.0 zwróci słownik z liczbą powtarzających się liczb za pomocą funkcji mapreduce dla list z liczbami [Link do commita 1](https://github.com/Zdartyy/functional-programming/commit/6299afd3743a7949c5f0ece5b81c24f31bd686ca)
+
+❌ 3.5 zwróci słownik z liczbami podniesionymi do sześcianu za pomocą funkcji mapreduce dla list z liczbami
+
+❌ 4.0 zwróci słownik (student, godziny nauki), która wykorzysta funkcją mapreduce oraz groupBy dla słownika na wejściu
+
+❌ 4.5 zwróci słownik (zdanie, wektor), która wykorzysta funkcję mapreduce oraz bagOfWords
+
+❌ 5.0 zwróci słownik (student, średnia ocen), która wykorzysta funkcjęmapreduce oraz join; na wejściu  są dwie listy: (numer_indeksu, student), (numer_indeksu, kurs, ocena)
+
+Kod: [Link do zadania 5](https://github.com/Zdartyy/functional-programming/blob/main/exercise5/app/src/ex5.scala)
+
+https://github.com/user-attachments/assets/68a43b1c-439b-410d-a91e-b07468e32965
+
