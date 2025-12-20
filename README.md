@@ -81,3 +81,9 @@ Kod: [Link do zadania 5](https://github.com/Zdartyy/functional-programming/blob/
 
 https://github.com/user-attachments/assets/68a43b1c-439b-410d-a91e-b07468e32965
 
+
+**Zadanie 6 **
+
+Kod: [Link do zadania 6](https://github.com/Zdartyy/functional-programming/blob/main/exercise6/Main.hs)
+
+https://github.com/user-attachments/assets/dff89a97-96df-45fc-86bc-6ea5d5c61010
