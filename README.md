@@ -88,3 +88,14 @@ Kod: [Link do zadania 6](https://github.com/Zdartyy/functional-programming/blob/
 
 https://github.com/user-attachments/assets/dff89a97-96df-45fc-86bc-6ea5d5c61010
 
+
+**Zadanie 7**
+
+✅ 3.0 zwróci wartość między 0, a maxvalue of Int włącznie [Link do commita](https://github.com/Zdartyy/functional-programming/commit/e04c4a2de35a91d071145fa0b15669b06b3abb95)
+
+✅ 3.5 zwróci wartość między 0, a 1 (Double) z wyłączeniem 1 [Link do commita](https://github.com/Zdartyy/functional-programming/commit/e04c4a2de35a91d071145fa0b15669b06b3abb95)
+
+Kod: [Link do zadania 7](https://github.com/Zdartyy/functional-programming/blob/main/exercise7/Main.hs)
+
+https://github.com/user-attachments/assets/4490e5be-8052-4353-9d66-914bd5789f8b
+
