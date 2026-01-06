@@ -99,3 +99,12 @@ Kod: [Link do zadania 7](https://github.com/Zdartyy/functional-programming/blob/
 
 https://github.com/user-attachments/assets/4490e5be-8052-4353-9d66-914bd5789f8b
 
+**Zadanie 8**
+
+Należy zaimplementować w Haskellu endpointy, które:
+
+✅ 3.0 wykorzysta metodę map fuktora do wykonania funkcji dodawania lub odejmowania na dwóch wartość przyjętych na wejściu [Link do commita](https://github.com/Zdartyy/functional-programming/commit/c9f59bb95e2b6d0607fd2f713eed4b94eabb28a2)
+
+Kod: [Link do zadania 8](https://github.com/Zdartyy/functional-programming/blob/main/exercise8/Main.hs)
+
+https://github.com/user-attachments/assets/a031fd3d-3c0b-478b-a78a-bc143409d430
