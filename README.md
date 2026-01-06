@@ -108,3 +108,14 @@ Należy zaimplementować w Haskellu endpointy, które:
 Kod: [Link do zadania 8](https://github.com/Zdartyy/functional-programming/blob/main/exercise8/Main.hs)
 
 https://github.com/user-attachments/assets/a031fd3d-3c0b-478b-a78a-bc143409d430
+
+
+**Zadanie 9**
+
+Należy zaimplementowaś w j. JavaScript endpointy, które:
+
+✅ 3.0 zwróci wartość binarną czy podana na wejściu liczba jest liczbą pierwszą; wykorzysta Promise [Link do commita](https://github.com/Zdartyy/functional-programming/commit/7f478146909ac06978670df9611d184e719bdccf)
+
+Kod: [Link do zadania 9](https://github.com/Zdartyy/functional-programming/blob/main/exercise9/server.js)
+
+https://github.com/user-attachments/assets/62d2fd18-8a56-4b6b-862c-db8808e00174
