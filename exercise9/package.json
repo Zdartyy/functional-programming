@@ -1,0 +1,12 @@
+{
+  "name": "exercise9",
+  "version": "1.0.0",
+  "description": "zadanie 9",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
