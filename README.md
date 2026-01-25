@@ -119,3 +119,15 @@ Należy zaimplementowaś w j. JavaScript endpointy, które:
 Kod: [Link do zadania 9](https://github.com/Zdartyy/functional-programming/blob/main/exercise9/server.js)
 
 https://github.com/user-attachments/assets/62d2fd18-8a56-4b6b-862c-db8808e00174
+
+
+**Zadanie 10**
+
+✅Przygotuj 3 wybrane funkcje w JS oraz udostępnij w ramach usługi Azure Functions - wybrałem funkcje dodawania, liczbe losową int oraz funckje odwracania stringa [Link do zadania](https://github.com/Zdartyy/functional-programming/tree/main/exercise10/azure_functions)
+
+✅Przygotuj 3 wybrane funkcje w Haskellu w ramach Azure App Services. Wykorzystaj obraz dockerowy - wybrałem funkcje z zadania 7 [Link do zadania](https://github.com/Zdartyy/functional-programming/blob/main/exercise10/app_service/Main.hs)
+
+Kod: [Link do zadania 10](https://github.com/Zdartyy/functional-programming/tree/main/exercise10)
+
+https://github.com/user-attachments/assets/e403989b-4631-49e6-bae0-9ff98138f4fa
+
